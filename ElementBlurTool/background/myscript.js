@@ -77,7 +77,8 @@
 					});
 			}
 		});
-	};
+	};二代如风达
 	
 	updateExtensionStatus();
 })(window);
+芙蓉的所热无热无若
